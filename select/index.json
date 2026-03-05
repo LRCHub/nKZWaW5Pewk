@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KSK（feat. ケンモチヒデフミ）",
+  "base_artist": "朔雀",
+  "createdAt": "2026-03-05T01:49:29.798346Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KSK (feat. ケンモチヒデフミ)",
+      "artist": "朔雀",
+      "has_synced": false,
+      "path": "select/pl_01_KSK_(feat._ケンモチヒデフミ)_朔雀.txt"
+    }
+  ]
+}
